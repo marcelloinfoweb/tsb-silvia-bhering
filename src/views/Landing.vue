@@ -211,7 +211,7 @@
       <div class="container">
         <div class="row justify-content-center text-center mb-sm">
           <div class="col-lg-8">
-            <h2 class="display-3">Para quem é o acompanhamento ?</h2>
+            <h2 class="display-3">Para quem é o acompanhamento?</h2>
           </div>
         </div>
         <p class="lead">Mães de bebê de 0 a 2 anos, que estejam passando pela privação do sono, mães que estão exaustas,
