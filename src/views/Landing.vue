@@ -410,11 +410,6 @@ export default {
 }
 
 .pricing .btn {
-  /*font-size: 80%;*/
-  /*border-radius: 5rem;*/
-  /*letter-spacing: .1rem;*/
-  /*font-weight: bold;*/
-  /*padding: 1rem;*/
   opacity: 0.7;
   transition: all 0.2s;
 }
