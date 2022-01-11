@@ -51,8 +51,8 @@ export default {
 </script>
 <style>
 .btn-whatsapp, .btn-whatsapp:hover {
-  background: #00bfa5;
-  border-color: #00bfa5;
+  background: #25D366;
+  border-color: #25D366;
   color: white;
 }
 </style>
