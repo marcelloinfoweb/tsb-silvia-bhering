@@ -290,13 +290,13 @@
                       </h6>
                       <hr>
                       <ul class="fa-ul">
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>Desafio de 7 dias.</li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>Vídeo chamada para conhecer seus
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>Desafio de 7 dias.</li>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>Vídeo chamada para conhecer seus
                           principais
                           desafios através da análise da rotina.
                         </li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>Suporte via whatsapp.</li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>Análise de rotina por escrito.</li>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>Suporte via whatsapp.</li>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>Análise de rotina por escrito.</li>
                       </ul>
                       <div class="d-grid text-center">
                         <a href="https://pag.ae/7XTDJfFQm" class="btn btn-primary text-uppercase" target="_blank">Quero
@@ -313,19 +313,19 @@
                           class="period">Ou à vista de R$797,00 </span></h6>
                       <hr>
                       <ul class="fa-ul">
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Desafio de 7 dias.
                         </li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Vídeo chamada para conhecer seus principais desafios através da análise da rotina.
                         </li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Suporte via whatsapp.
                         </li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Análise de rotina por escrito.
                         </li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Você ganha mais uma análise de rotina através de outro desafio e nova chamada por vídeo para
                           orientações dentro do período contratado.
                         </li>
@@ -345,23 +345,23 @@
                           class="period">Ou à vista de R$997,00 </span></h6>
                       <hr>
                       <ul class="fa-ul">
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Desafio de 7 dias.
                         </li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Vídeo chamada para conhecer seus principais desafios através da análise da rotina.
                         </li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Suporte via whatsapp.
                         </li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Análise de rotina por escrito.
                         </li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Você ganha mais uma análise de rotina através de outro desafio e nova chamada por vídeo para
                           orientações dentro do período contratado.
                         </li>
-                        <li><span class="fa-li"><i class="fas fa-check"></i></span>
+                        <li><span class="fa-li"><i class="fa fa-check"></i></span>
                           Mais 15 dias, totalizando 90.
                         </li>
                       </ul>
