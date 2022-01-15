@@ -7,9 +7,10 @@ import Starter from "./views/Landing.vue";
 Vue.use(Router);
 
 export default new Router({
+  mode: 'history',
   routes: [
     {
-      path: "/landing",
+      path: "/",
       name: "landing",
       components: {
         header: Header,
