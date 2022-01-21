@@ -14,8 +14,6 @@
           <span></span>
           <span></span>
         </div>
-        <div class="shape shape-style-1 shape-default shape-skew">
-        </div>
         <div class="container shape-container d-flex">
           <div class="col px-0">
             <div class="row">
@@ -25,103 +23,38 @@
                 </h1>
                 <p class="lead  text-white">Aprenda tudo o que você precisa para ter uma noite de sono mais
                   tranquila!</p>
+                <div class="btn-wrapper">
+                  <a href="#passos" class="btn btn-danger btn-lg">Quero Conhecer</a>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </section>
     </div>
-    <section class="section section-sm pt-lg-0 mt--200">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-12">
-            <div class="row row-grid">
-              <div class="col-lg-4">
-                <card class="border-0" hover shadow body-classes="py-5">
-                  <h6 class="text-primary text-uppercase">SERÁ QUE VAI FUNCIONAR PARA O MEU BEBÊ?</h6>
-                  <p class="description mt-3">Sim, pois o atendimento é personalizado e respeitamos a individualidade de
-                    cada bebê, adaptando o método à realidade de cada família.</p>
-                </card>
-              </div>
-              <div class="col-lg-4">
-                <card class="border-0" hover shadow body-classes="py-5">
-                  <h6 class="text-success text-uppercase">NÃO TENHO TEMPO PARA IMPLEMENTAR AS MUDANÇAS NECESSÁRIAS, POIS
-                    TRABALHO FORA O DIA TODO, ENTÃO NÃO VOU CONSEGUIR REDUZIR OS DESPERTARES DO MEU BEBÊ?</h6>
-                  <p class="description mt-3">Consegue sim, pois outra pessoa, seja babá ou um familiar, poderá ajudar
-                    com a rotina do bebê.</p>
-                </card>
-              </div>
-              <div class="col-lg-4">
-                <card class="border-0" hover shadow body-classes="py-5">
-                  <h6 class="text-warning text-uppercase">JÁ TENTEI DE TUDO E NADA DEU CERTO, SERÁ QUE AINDA É POSSÍVEL
-                    REDUZIR OS DESPERTARES NOTURNOS?</h6>
-                  <p class="description mt-3">Sim, é possível! Pois irei analisar cada caso e juntas poderemos ajustar a
-                    rotina de forma a reduzir esses despertares e proporcionar uma noite de sono mais tranquila.</p>
-                </card>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="section section-sm">
-      <div class="container">
-        <div class="row row-grid justify-content-center">
-          <div class="col-lg-12 text-center">
-            <div class="btn-wrapper">
-              <a href="#pagamento" class="btn btn-primary btn-lg">Quero este acompanhamento</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="section section-sm">
-      <div class="container">
-        <div class="row row-grid align-items-center">
-          <div class="col-md-12 order-md-1">
-            <div class="pr-md-5">
-              <h3>Cada bebê é único</h3>
-              <p class="lead">Como sabemos, cada bebê é único, não existe uma fórmula mágica ou uma receita milagrosa
-                que sirva pratodos, o método precisa se adequar à realidade do bebê. Pensando nisso, faremos um
-                acompanhamento individual e personalizado para que você possa ajustar o sono do seu bebê conforme as
-                necessidades dele.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="section bg-secondary">
-      <div class="container">
-        <div class="row row-grid align-items-center">
-          <div class="col-md-12">
-            <div>
-              <h3>O método possui 4 passos</h3>
-              <p class="lead">Esse método foi idealizado pelo médico Dr. Odilo Queiroz, pediatra e especialista em sono
-                infantil. O método possui 4 passos que são essenciais para que você possa ajustar a rotina do seu bebê a
-                fim de reduzir os despertares noturnos e assim ter uma noite de sono mais tranquila.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="section section section-shaped my-0 overflow-hidden">
-      <div class="shape shape-style-1 bg-gradient-warning shape-skew">
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-      <div class="shape shape-style-1 bg-gradient-warning shape-skew">
-      </div>
+    <section id="passos" class="section section section-shaped my-0 overflow-hidden">
       <div class="container py-0">
         <div class="row align-items-center">
-          <div class="d-flex px-3">
+          <div class="d-flex">
             <div class="pl-4">
-              <h4 class="display-3 text-white">Os quatro passos do sono do bebê são:</h4>
+              <h4 class="display-3">Acompanhamento do Sono do Bebê</h4>
             </div>
+          </div>
+          <div class="pl-4">
+            <p class="lead">Esse acompanhamento é baseado no método idealizado pelo médico Dr. Odilo Queiroz,
+              pediatra e especialista em sono infantil. Ele possui 4 passos que são essenciais para que você possa
+              ajustar a rotina do seu bebê a fim de reduzir os despertares noturnos e assim ter uma noite de sono mais
+              tranquila.</p>
+            <p class="lead">Como sabemos, cada bebê é único, não existe uma fórmula mágica ou uma receita milagrosa
+              que sirva pra todos, o método precisa se adequar à realidade do bebê. Pensando nisso, faremos um
+              acompanhamento individual e personalizado para que você possa ajustar o sono do seu bebê conforme as
+              necessidades dele.
+            </p>
+          </div>
+          <div class="col-sm-12">
+            <br>
+            <br>
+            <h3>Os quatro passos do sono do bebê</h3>
           </div>
           <div class="col-lg-6 order-lg-1">
             <card shadow class="shadow-lg--hover mt-5">
@@ -170,8 +103,8 @@
     </section>
     <section class="section section-sm">
       <div class="container">
-        <div class="row justify-content-center text-center mb-sm">
-          <div class="col-lg-8">
+        <div class="row mb-sm">
+          <div class="col-lg-12">
             <h2 class="display-3">Com esse acompanhamento, o que terei acesso?</h2>
           </div>
         </div>
@@ -183,9 +116,19 @@
           <li>Suporte para tirar todas as suas dúvidas via WhatsApp</li>
           <li>Documento por escrito com todos os ajustes mencionados na chamada de vídeo para que você possa ter acesso
             sempre que precisar. Muitas vezes no decorrer da nossa conversa, por serem muitos ajustes, alguns pontos
-            pode ser esquecidos; então você terá esse material de apoio para consultar sempre que precisar
+            podem ser esquecidos; então você terá esse material de apoio para consultar sempre que precisar
+          </li>
+          <li>
+            <badge pill type="success">BÔNUS </badge>  <u>Comprando agora</u> você ganha 15 dias de acompanhamento e que farão toda a diferença, pois se o se bebê
+            estiver
+            em salto de desenvolvimento, este tempo a mais será essencial para poder ajustar a rotina do seu bebê
           </li>
         </ul>
+        <div class="btn-wrapper text-center">
+          <a href="#pagamento" class="btn btn-danger btn-lg">Me Inscrever Agora</a>
+        </div>
+        <br>
+        <br>
       </div>
     </section>
     <section class="section bg-secondary">
@@ -209,8 +152,8 @@
 
     <section class="section section-sm">
       <div class="container">
-        <div class="row justify-content-center text-center mb-sm">
-          <div class="col-lg-8">
+        <div class="row mb-sm">
+          <div class="col-lg-12">
             <h2 class="display-3">Para quem é o acompanhamento?</h2>
           </div>
         </div>
@@ -222,7 +165,7 @@
 
     <section class="section section-sm">
       <div class="container">
-        <div class="row justify-content-center text-center mb-sm">
+        <div class="row">
           <div class="col-lg-8">
             <h2 class="display-3">Quem eu sou</h2>
           </div>
@@ -247,7 +190,9 @@
     </section>
 
     <section class="section section-shaped my-0 overflow-hidden">
-      <div class="shape shape-style-3 bg-gradient-success shape-skew">
+      <div class="shape shape-style-1 bg-gradient-success shape-skew">
+        <span></span>
+        <span></span>
         <span></span>
         <span></span>
         <span></span>
@@ -273,7 +218,7 @@
 
     <section class="section section-sm pt-0">
       <div class="container">
-        <card gradient="warning mt--300" no-body shadow-size="lg" class="border-0">
+        <card gradient="primary mt--300" no-body shadow-size="lg" class="border-0">
           <div class="p-5">
             <div class="row align-items-center">
               <div class="col-lg-12 text-center mb-sm">
@@ -376,6 +321,46 @@
             </div>
           </div>
         </card>
+      </div>
+    </section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <section class="section section-sm pt-lg-0">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-12 text-center mb-sm">
+            <h4 class="display-3">Dúvidas Frequentes</h4>
+          </div>
+          <div class="col-lg-12">
+            <div class="row row-grid">
+              <div class="col-lg-4">
+                <card class="border-0" hover shadow body-classes="py-5">
+                  <h6 class="text-primary text-uppercase">SERÁ QUE VAI FUNCIONAR PARA O MEU BEBÊ?</h6>
+                  <p class="description mt-3">Sim, pois o atendimento é personalizado e respeitamos a individualidade de
+                    cada bebê, adaptando o método à realidade de cada família.</p>
+                </card>
+              </div>
+              <div class="col-lg-4">
+                <card class="border-0" hover shadow body-classes="py-5">
+                  <h6 class="text-success text-uppercase">NÃO TENHO TEMPO PARA IMPLEMENTAR AS MUDANÇAS NECESSÁRIAS, POIS
+                    TRABALHO FORA O DIA TODO, ENTÃO NÃO VOU CONSEGUIR REDUZIR OS DESPERTARES DO MEU BEBÊ?</h6>
+                  <p class="description mt-3">Consegue sim, pois outra pessoa, seja babá ou um familiar, poderá ajudar
+                    com a rotina do bebê.</p>
+                </card>
+              </div>
+              <div class="col-lg-4">
+                <card class="border-0" hover shadow body-classes="py-5">
+                  <h6 class="text-warning text-uppercase">JÁ TENTEI DE TUDO E NADA DEU CERTO, SERÁ QUE AINDA É POSSÍVEL
+                    REDUZIR OS DESPERTARES NOTURNOS?</h6>
+                  <p class="description mt-3">Sim, é possível! Pois irei analisar cada caso e juntas poderemos ajustar a
+                    rotina de forma a reduzir esses despertares e proporcionar uma noite de sono mais tranquila.</p>
+                </card>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 

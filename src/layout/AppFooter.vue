@@ -48,11 +48,46 @@ export default {
     }
   }
 };
+
+const url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?23726';
+const s = document.createElement('script');
+s.type = 'text/javascript';
+s.async = true;
+s.src = url;
+const options = {
+  "enabled": true,
+  "chatButtonSetting": {
+    "backgroundColor": "#4dc247",
+    "ctaText": "",
+    "borderRadius": "25",
+    "marginLeft": "0",
+    "marginBottom": "50",
+    "marginRight": "50",
+    "position": "right"
+  },
+  "brandSetting": {
+    "brandName": "Sílvia Bhering",
+    "brandSubTitle": "Terapeuta do Sono do Bebê",
+    "brandImg": "https://cdn.clare.ai/wati/images/WATI_logo_square_2.png",
+    "welcomeText": "Olá, Como posso ajudar?",
+    "messageText": "Olá, Gostaria de mais informações",
+    "backgroundColor": "#0a5f54",
+    "ctaText": "Abrir o Whatsapp",
+    "borderRadius": "25",
+    "autoShow": false,
+    "phoneNumber": "5531982486575"
+  }
+};
+s.onload = function () {
+  CreateWhatsappChatWidget(options);
+};
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s, x);
 </script>
 <style>
 .btn-whatsapp, .btn-whatsapp:hover {
-  background: #25D366;
-  border-color: #25D366;
-  color: white;
+  background: #25D366 !important;
+  border-color: #25D366 !important;
+  color: white !important;
 }
 </style>
